@@ -36,6 +36,10 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 
 ---
 
-## 📊 Salário médio por modelo de trabalho
+## Remuneração por Experiência Profissional
 
-![Salário por modelo](images/exp_profissional.png)
+![Salário por modelo](images/remuneracao_experiencia.png)
+
+## Remuneração por satisfação no trabalho
+
+![Salário por modelo](images/remuneracao_satisfacao.png)
