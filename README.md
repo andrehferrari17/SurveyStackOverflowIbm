@@ -36,10 +36,21 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 
 ---
 
-## Remuneração por Experiência Profissional
+## 📊 Remuneração por Experiência Profissional
+Profissionais com maior tempo de experiência apresentam aumento consistente na média salarial, evidenciando a valorização da senioridade no mercado.
 
 ![Salário por modelo](images/remuneracao_experiencia.png)
 
-## Remuneração por satisfação no trabalho
+---
+
+## 📊 Remuneração por satisfação no trabalho
+Níveis mais altos de satisfação estão associados a maiores salários, indicando possível correlação entre valorização profissional e bem-estar no trabalho.
 
 ![Salário por modelo](images/remuneracao_satisfacao.png)
+
+---
+
+## 🎓 Nível de escolaridade
+A análise indica que a escolaridade não é um fator determinante absoluto para empregabilidade, com presença significativa de profissionais sem bacharelado atuando na área.
+
+![Salário por modelo](images/nv_escolaridade.png)
